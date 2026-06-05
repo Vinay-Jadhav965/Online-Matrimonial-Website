@@ -208,7 +208,7 @@ The application uses the following main tables:
 
 For support and inquiries:
 - Email: admin@matrimony.com
-- Phone: +91 98765 43210
+- Phone: +91 9284085714
 
 ## License
 
